@@ -1,4 +1,4 @@
-#! /usr/bin/python
+#! python3
 
 def main():
     print("Hello World!")
